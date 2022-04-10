@@ -1,0 +1,5 @@
+2022-04-10 00:17:28.082 +02:00 [INF] Now listening on: https://localhost:7113
+2022-04-10 00:17:28.111 +02:00 [INF] Now listening on: http://localhost:5113
+2022-04-10 00:17:28.114 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-10 00:17:28.115 +02:00 [INF] Hosting environment: Development
+2022-04-10 00:17:28.116 +02:00 [INF] Content root path: C:\Users\GRizzly\RiderProjects\Shop\ShopAPI\
