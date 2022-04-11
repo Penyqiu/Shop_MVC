@@ -1,6 +1,6 @@
 ﻿namespace ShopAPI.Models.Authors;
 
-public class AuthorDto
+public class AuthorReadDto
 {
 
     public string FirstName { get; set; }
