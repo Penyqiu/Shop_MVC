@@ -1,0 +1,9 @@
+2022-04-12 21:53:15.178 +02:00 [INF] Now listening on: https://localhost:7113
+2022-04-12 21:53:15.223 +02:00 [INF] Now listening on: http://localhost:5113
+2022-04-12 21:53:15.229 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-12 21:53:15.231 +02:00 [INF] Hosting environment: Development
+2022-04-12 21:53:15.232 +02:00 [INF] Content root path: C:\Users\GRizzly\RiderProjects\Shop\ShopAPI\
+2022-04-12 21:54:11.191 +02:00 [WRN] Invalid password for user.
+2022-04-12 21:54:37.986 +02:00 [WRN] User password validation failed: PasswordRequiresNonAlphanumeric;PasswordRequiresDigit;PasswordRequiresUpper.
+2022-04-12 21:55:42.212 +02:00 [WRN] User password validation failed: PasswordRequiresDigit.
+2022-04-12 21:55:49.200 +02:00 [WRN] User validation failed: DuplicateUserName.
