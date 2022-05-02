@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\GRizzly\\RiderProjects\\Shop_MVC\\BookStoreApp.Blazor.WebAssembly.UI\\BookStoreApp.Blazor.WebAssembly.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\GRizzly\\RiderProjects\\Shop_MVC\\BookStoreApp.Blazor.WebAssembly.UI\\BookStoreApp.Blazor.WebAssembly.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GRizzly\\RiderProjects\\Shop_MVC\\BookStoreApp.Blazor.WebAssembly.UI\\BookStoreApp.Blazor.WebAssembly.UI.csproj",
+        "projectName": "BookStoreApp.Blazor.WebAssembly.UI",
+        "projectPath": "C:\\Users\\GRizzly\\RiderProjects\\Shop_MVC\\BookStoreApp.Blazor.WebAssembly.UI\\BookStoreApp.Blazor.WebAssembly.UI.csproj",
+        "packagesPath": "C:\\Users\\GRizzly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GRizzly\\RiderProjects\\Shop_MVC\\BookStoreApp.Blazor.WebAssembly.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GRizzly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.1.5, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.3, 6.0.3]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
